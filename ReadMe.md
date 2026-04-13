@@ -6,15 +6,6 @@
 
 A single-page React app (Vite + TypeScript + Tailwind) that lets pet owners track their pets' health records — vaccinations, vet visits, weight, and medications.
 
-## Document Map
-
-| Document | What It Constrains |
-|---|---|
-| `docs/design.md` | Colors, fonts, component styles |
-| `docs/screens.md` | What every screen shows and does |
-| `docs/content.json` | All UI strings — use verbatim, do not invent copy |
-| `docs/sample-data.json` | Seed data to pre-populate the app |
-
 ## Technical Requirements
 
 - **Vite + React 18 + TypeScript + Tailwind CSS**
