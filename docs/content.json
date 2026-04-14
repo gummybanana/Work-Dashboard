@@ -1,0 +1,128 @@
+{
+  "app_name": "PetLog",
+  "sidebar_add_pet": "Add pet",
+
+  "tabs_overview": "Overview",
+  "tabs_vaccinations": "Vaccinations",
+  "tabs_weight": "Weight",
+  "tabs_medications": "Medications",
+
+  "overview_next_vaccination": "Next vaccination",
+  "overview_last_visit": "Last vet visit",
+  "overview_current_weight": "Current weight",
+  "overview_recent_activity": "Recent activity",
+  "overview_up_to_date": "Up to date",
+  "overview_due_soon": "Due soon",
+  "overview_overdue": "Overdue",
+  "overview_no_visits": "No visits recorded",
+  "overview_no_weight": "No weight recorded",
+
+  "vaccinations_title": "Vaccinations",
+  "vaccinations_add": "Add vaccination",
+  "vaccinations_col_name": "Vaccine",
+  "vaccinations_col_date": "Date given",
+  "vaccinations_col_next": "Next due",
+  "vaccinations_col_vet": "Vet / Clinic",
+  "vaccinations_col_notes": "Notes",
+
+  "weight_title": "Weight log",
+  "weight_add": "Log weight",
+  "weight_col_date": "Date",
+  "weight_col_weight": "Weight",
+  "weight_col_change": "Change",
+  "weight_col_notes": "Notes",
+  "weight_chart_min_entries": "Add at least 2 entries to see the chart.",
+
+  "medications_title": "Medications",
+  "medications_add": "Add medication",
+  "medications_active": "Active",
+  "medications_completed": "Completed",
+  "medications_ongoing": "Ongoing",
+
+  "modal_add_pet_title": "Add a pet",
+  "modal_edit_pet_title": "Edit pet",
+  "modal_add_vaccination_title": "Add vaccination",
+  "modal_add_weight_title": "Log weight",
+  "modal_add_medication_title": "Add medication",
+
+  "field_name": "Name",
+  "field_species": "Species",
+  "field_breed": "Breed",
+  "field_dob": "Date of birth",
+  "field_color": "Color / markings",
+  "field_vaccine_name": "Vaccine name",
+  "field_date_given": "Date given",
+  "field_next_due": "Next due date",
+  "field_vet": "Vet / Clinic",
+  "field_notes": "Notes",
+  "field_weight": "Weight",
+  "field_unit": "Unit",
+  "field_date": "Date",
+  "field_medication_name": "Medication name",
+  "field_dosage": "Dosage",
+  "field_frequency": "Frequency",
+  "field_start_date": "Start date",
+  "field_end_date": "End date",
+
+  "frequency_once_daily": "Once daily",
+  "frequency_twice_daily": "Twice daily",
+  "frequency_three_daily": "Three times daily",
+  "frequency_weekly": "Weekly",
+  "frequency_monthly": "Monthly",
+  "frequency_as_needed": "As needed",
+
+  "species_dog": "Dog",
+  "species_cat": "Cat",
+  "species_bird": "Bird",
+  "species_rabbit": "Rabbit",
+  "species_fish": "Fish",
+  "species_reptile": "Reptile",
+  "species_other": "Other",
+
+  "btn_cancel": "Cancel",
+  "btn_save": "Save changes",
+  "btn_add_pet": "Add pet",
+  "btn_add_vaccination": "Add vaccination",
+  "btn_log_weight": "Log weight",
+  "btn_add_medication": "Add medication",
+  "btn_edit": "Edit",
+  "btn_delete": "Delete",
+
+  "delete_confirm_title": "Are you sure?",
+  "delete_confirm_pet": "This will permanently delete this pet and all their health records. This can't be undone.",
+  "delete_confirm_vaccination": "This vaccination record will be permanently deleted.",
+  "delete_confirm_weight": "This weight entry will be permanently deleted.",
+  "delete_confirm_medication": "This medication record will be permanently deleted.",
+
+  "validation_required": "This field is required.",
+  "validation_positive_number": "Please enter a number greater than zero.",
+
+  "empty_no_pet_selected": {
+    "icon": "paw-print",
+    "heading": "Select a pet to get started",
+    "description": "Choose a pet from the sidebar, or add a new one."
+  },
+  "empty_overview": {
+    "icon": "activity",
+    "heading": "No activity yet",
+    "description": "Add vaccinations, weight logs, or medications to see activity here."
+  },
+  "empty_vaccinations": {
+    "icon": "syringe",
+    "heading": "No vaccinations recorded",
+    "description": "Keep track of your pet's vaccines and when they're due next.",
+    "cta": "Add vaccination"
+  },
+  "empty_weight": {
+    "icon": "scale",
+    "heading": "No weight entries yet",
+    "description": "Log your pet's weight regularly to track trends over time.",
+    "cta": "Log weight"
+  },
+  "empty_medications": {
+    "icon": "pill",
+    "heading": "No medications",
+    "description": "Track your pet's medications, dosages, and schedules here.",
+    "cta": "Add medication"
+  }
+}
